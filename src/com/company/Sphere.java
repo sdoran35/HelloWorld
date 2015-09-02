@@ -16,24 +16,25 @@ public class Sphere {
         System.out.print("Please enter the Radius: ");
         radius = reader.nextDouble();
 
-        C = 2 * Math.PI * radius;
+        C = 2.0 * Math.PI * radius;
         int g = (int) C;
 
-        D = 2 * radius;
+        D = 2.0 * radius;
         int x = (int) D;
 
-        A = (4 * Math.PI * (radius * radius));
+        A = (4.0 * Math.PI * (radius * radius));
         int i = (int) A;
 
-        V = (( 4 / 3) * Math.PI * (radius * radius * radius));
+        V = (( ( 4.0 / 3.0 ) * Math.PI ) * (radius * radius * radius));
+        int h = (int) V;
 
 
 
-        System.out.print("Here are the outputs:");
-        System.out.println("The Circumference is: " + g + "");
-        System.out.println("The Diameter is: " + x);
-        System.out.println("The Surface Area is: " + i);
-        System.out.println("The Volume is: " + V);
+        System.out.println("Here are the outputs:");
+        System.out.println("The Circumference is: " + g + " units");
+        System.out.println("The Diameter is: " + x + " units");
+        System.out.println("The Surface Area is: " + i + " units^2");
+        System.out.println("The Volume is: " + h + " units^3");
 
 
     }
