@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7466e0e9-977c-46db-9ca7-c62f91af83d1" name="Default" comment="Weather and Time">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Payroll.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Payroll.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Cube.java" afterPath="$PROJECT_DIR$/src/com/company/Cube.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Payroll.java" afterPath="$PROJECT_DIR$/src/com/company/Payroll.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Round.java" afterPath="$PROJECT_DIR$/src/com/company/Round.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/company/Sphere.java" afterPath="$PROJECT_DIR$/src/com/company/Sphere.java" />
+    <list default="true" id="7466e0e9-977c-46db-9ca7-c62f91af83d1" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Cube.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Cube.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Round.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Round.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Sphere.class" afterPath="$PROJECT_DIR$/out/production/HelloWorld/com/company/Sphere.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HelloWorld.iws" />
@@ -614,7 +612,7 @@
       <updated>1440513338021</updated>
       <workItem from="1441222233399" duration="90000" />
       <workItem from="1441288736805" duration="115000" />
-      <workItem from="1441289340790" duration="1550000" />
+      <workItem from="1441289340790" duration="1581000" />
     </task>
     <task id="LOCAL-00001" summary="lmo;k">
       <created>1440599040256</created>
@@ -658,11 +656,17 @@
       <option name="project" value="LOCAL" />
       <updated>1441118057553</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Weather and Time">
+      <created>1441292229531</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1441292229531</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1755000" />
+    <option name="totallyTimeSpent" value="1786000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1366" height="694" extended-state="0" />
