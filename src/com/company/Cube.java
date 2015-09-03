@@ -11,6 +11,6 @@ public class Cube {
         System.out.print("Please enter the side length: ");
         a = reader.nextInt();
         A = (6 * (a * a));
-        System.out.print("The Surface Area of this Cube is " + A + "units^2");
+        System.out.print("The Surface Area of this Cube is " + A + " units^2");
     }
 }

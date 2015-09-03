@@ -16,7 +16,7 @@ public class Payroll {
         regHours = reader.nextDouble();
         System.out.print("Please enter the number of overtime hours worked: ");
         overHours = reader.nextDouble();
-        total = ((wage * regHours) + (wage * overHours));
-        System.out.print("Your total weekly wage is: "+ total);
+        total = ((overHours * (wage * 1.5)) + (wage * regHours));
+        System.out.print("Your total weekly wage is: $"+ total);
     }
 }
