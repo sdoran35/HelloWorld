@@ -1,7 +1,7 @@
 package com.company;
 import java.util.Scanner;
 /**
- * Created by student on 9/1/15.
+ * Created by Sean Doran on 9/1/15.
  */
 public class Payroll {
     public static void main(String[]args){
