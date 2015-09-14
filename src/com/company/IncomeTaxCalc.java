@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class IncomeTaxCalc {
 
     public static void main(String [] args){
-        final double TAX_RATE = 0.20;
+        final double TAX_RATE = 4.0;
         final double STANDARD_DEDUCTION = 10000.0;
         final double DEPENDENT_DEDUCTION = 2000.0;
 
