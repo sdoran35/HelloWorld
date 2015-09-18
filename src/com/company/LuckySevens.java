@@ -1,7 +1,6 @@
 package com.company;
 import java.util.Scanner;
 import java.util.Random;
-
 /**
  * Created by student on 9/17/15.
  */
