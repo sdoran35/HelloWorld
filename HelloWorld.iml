@@ -8,5 +8,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Media Computing" level="project" />
+    <orderEntry type="library" name="Student Test Scores" level="project" />
+    <orderEntry type="library" name="Fraction" level="project" />
   </component>
 </module>
